@@ -50,7 +50,7 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
   - **[GitHub Repo](https://github.com/CFsylvester/budget-tracker)**
   - **[My Portfolio](clairecodes.dev)**
   - **[Connect on LinkedIn](https://www.linkedin.com/in/claire-sylvester-386373143/)**
-  - **[GitHub profile](https://github.com/CFsylvester)![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)**
+  - **[GitHub profile](https://github.com/CFsylvester)    ![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)**
 
   ## License 
   This application uses the MIT license.  
