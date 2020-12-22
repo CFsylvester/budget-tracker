@@ -28,24 +28,24 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
 ![Cache](./public/images/app-cached-storage.png)
   
   ## Installation
-  - Node.js, NPM, and MongoDB must be installed on your computer.
-  - Clone the repo: 
-    `git clone https://github.com/CFsylvester/budget-tracker.git`
-  - Navigate to the root directory and run: 
-    `npm install`
-  - To start the server locally, run the following: 
-    `npm start`
-  - Navigate to <b>localhost:3001</b> in your browser to open the application locally.
+  Node.js, NPM, and MongoDB must be installed on your computer.
+  Clone the repo: 
+      `git clone https://github.com/CFsylvester/budget-tracker.git`
+  Navigate to the root directory and run: 
+      `npm install`
+  To start the server locally, run the following: 
+      `npm start`
+  Navigate to <b>localhost:3001</b> in your browser to open the application locally.
 
   ## Technology Used
-  ![JavaScript](https://img.shields.io/badge/-Javascript-9cf&?style=for-the-badge)
-  ![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge)
-  ![Express.js](https://img.shields.io/badge/-Express-lightgrey&?style=for-the-badge)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge)
-  ![Mongoose.js](https://img.shields.io/badge/-Mongoose-green&?style=for-the-badge) 
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB Atlas-green&?style=for-the-badge)
-  ![Heroku](https://img.shields.io/badge/-Heroku-lightgrey&?style=for-the-badge)
-  ![Chart.js](https://img.shields.io/badge/-Chart.js-ff69b4&?style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/-Javascript-9cf&?style=for-the-badge) <br />
+  ![Node.js](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge) <br />
+  ![Express.js](https://img.shields.io/badge/-Express-lightgrey&?style=for-the-badge) <br />
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge) <br />
+  ![Mongoose.js](https://img.shields.io/badge/-Mongoose-green&?style=for-the-badge) <br />
+  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB Atlas-green&?style=for-the-badge) <br />
+  ![Heroku](https://img.shields.io/badge/-Heroku-lightgrey&?style=for-the-badge) <br />
+  ![Chart.js](https://img.shields.io/badge/-Chart.js-ff69b4&?style=for-the-badge) <br />
   
   ## Questions
   Please visit my **[GitHub profile](https://github.com/CFsylvester)** 
@@ -53,10 +53,9 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
   ## Links
   - **[Deployed App](https://sylvester-budget-tracker.herokuapp.com/)**
   - **[GitHub Repo](https://github.com/CFsylvester/budget-tracker)** 
-  -**[GitHub profile](https://github.com/CFsylvester)** ![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)
+  - **[GitHub profile](https://github.com/CFsylvester)![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)**
   - **[My Portfolio](clairecodes.dev)**
   - **[Connect on LinkedIn](https://www.linkedin.com/in/claire-sylvester-386373143/)**
 
-  ## License  
-  <a href='./LICENSE'>![License](https://img.shields.io/github/license/CFsylvester/budget-tracker?color=yellow&style=for-the-badge)</a> 
+  ## License <a href='./LICENSE'>![License](https://img.shields.io/github/license/CFsylvester/budget-tracker?color=yellow&style=for-the-badge)</a>  
   This app is licensed under the MIT license.
