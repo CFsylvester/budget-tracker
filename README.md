@@ -17,7 +17,7 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
 
 #### Online Application:
 
-![Homepage](./public/images/app-homepage.png)
+![Homepage](./public/images/app-homepage.png =100x20)
 
  #### Offline Inputs using IndexedDB:
  
