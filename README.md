@@ -40,7 +40,7 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
   ## Technology Used
   ![JavaScript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge)![Node.js](https://img.shields.io/badge/-Node.js-9cf?style=for-the-badge)![Express.js](https://img.shields.io/badge/-Express-white?style=for-the-badge)![IndexedDB](https://img.shields.io/badge/-indexedDB-9cf?style=for-the-badge)![PWA](https://img.shields.io/badge/-PWA-white?style=for-the-badge)![Cache-Storage](https://img.shields.io/badge/-Cache--Storage-9cf?style=for-the-badge)![Chart.js](https://img.shields.io/badge/-Chart.js-white?style=for-the-badge)![Mongoose.js](https://img.shields.io/badge/-Mongoose-9cf?style=for-the-badge)  <br />
   
-  ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MonogoDb-inactive&?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
+  ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
   
   ## Questions
   Please reach out to me at [clairesylvester@clairecodes.dev](mailto:clairesylvester@clairecodes.dev?subject=[GitHub%budget-tracker]%20Source%20Han%20Sans)
