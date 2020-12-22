@@ -41,12 +41,13 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
   ![JavaScript](https://img.shields.io/badge/-Javascript-darkblue?style=for-the-badge) <br />
   ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=for-the-badge) <br />
   ![Express.js](https://img.shields.io/badge/-Express-blueviolet?style=for-the-badge) <br />
-  ![Mongoose.js](https://img.shields.io/badge/-Mongoose-9cf?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MonogoDb-lightgrey&?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-blue?style=for-the-badge) <br />
-  ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge) <br />
   ![Chart.js](https://img.shields.io/badge/-Chart.js-ff69b4?style=for-the-badge) <br />
+  ![Mongoose.js](https://img.shields.io/badge/-Mongoose-9cf?style=for-the-badge)  <br />
+  ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge) <br /> 
+  ![MongoDB](https://img.shields.io/badge/Database-MonogoDb-lightgrey&?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-blue?style=for-the-badge) 
   
   ## Questions
-  Please visit my **[GitHub profile](https://github.com/CFsylvester)** 
+  Please reach out to me at [clairesylvester@clairecodes.dev](mailto:clairesylvester@clairecodes.dev?subject=[GitHub%budget-tracker]%20Source%20Han%20Sans)
 
   ## Links
   - **[Deployed App](https://sylvester-budget-tracker.herokuapp.com/)**
@@ -56,4 +57,4 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
   - **[GitHub profile](https://github.com/CFsylvester)![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)**
 
   ## License 
-  <a href='./LICENSE'>![License](https://img.shields.io/github/license/CFsylvester/budget-tracker?color=success&style=for-the-badge)</a>  
+  This application uses the MIT license.  
