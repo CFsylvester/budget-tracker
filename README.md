@@ -1,6 +1,6 @@
 # Budget Tracker
 
- <a href="https://sylvester-budget-tracker.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=blueviolet&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=pink&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?style=for-the-badge)
+ <a href="https://sylvester-budget-tracker.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=white&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=white&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?color=white&style=for-the-badge)
 
 ## Description
 Budget Tracker is a Progressive Web Application (PWA) where users can visually track their spending. Additional or subtracted funds can be applied to the total budget amount and the chart will shift to reflect this input. IndexedDB and the Cache API are used to enable this application to function offline as a PWA. 
