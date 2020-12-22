@@ -41,6 +41,9 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
   ![JavaScript](https://img.shields.io/badge/-Javascript-darkblue?style=for-the-badge) <br />
   ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=for-the-badge) <br />
   ![Express.js](https://img.shields.io/badge/-Express-blueviolet?style=for-the-badge) <br />
+  ![IndexedDB](https://img.shields.io/badge/-indexedDB-teal?style=for-the-badge) <br />
+  ![PWA](https://img.shields.io/badge/-PWA-white?style=for-the-badge) <br />
+  ![Cache-Storage](https://img.shields.io/badge/-Cache--Storage-red?style=for-the-badge) <br />
   ![Chart.js](https://img.shields.io/badge/-Chart.js-ff69b4?style=for-the-badge) <br />
   ![Mongoose.js](https://img.shields.io/badge/-Mongoose-9cf?style=for-the-badge)  <br />
   ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge) <br /> 
