@@ -1,12 +1,12 @@
 # Budget Tracker
 
- <a href="https://budget-app-tc.herokuapp.com/">![Deployed App]()</a>
+ <a href="https://sylvester-budget-tracker.herokuapp.com/">![Deployed App]()</a>
  ![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?style=for-the-badge)
 
 ## Description
 Budget Tracker is a Progressive Web Application (PWA) where users can visually track their spending. Additional or subtracted funds can be applied to the total budget amount and the chart will shift to reflect this input. IndexedDB and the Cache API are used to enable this application to function offline as a PWA. 
 
-  ## Table of Contents
+## Table of Contents
   - [Usage](#Usage)
   - [Installation](#installation)
   - [Tech Used](#tech-used)
@@ -14,29 +14,29 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
   - [Links](#links)
   - [License](#license)
   
-  ##Usage
+## Usage
 
 #### Online Application:
 
-![Homepage](./assets/)
+![Homepage](./public/images/app-homepage.png)
 
  #### Offline Inputs using IndexedDB:
  
-![IndexedDB](./assets/)
+![IndexedDB](./public/images/app-indexedDB.png)
 
  #### Offline Functionality using Cached Assets:
 
-![Cache](./assets/)
+![Cache](./public/images/app-cached-storage.png)
   
   ## Installation
-  - Both Node.js, NPM, and MongoDB must be installed on your computer.
+  - Node.js, NPM, and MongoDB must be installed on your computer.
   - Clone the repo: 
-    - `git clone `
+    - `git clone https://github.com/CFsylvester/budget-tracker.git`
   - Navigate to the root directory and run: 
     - `npm install`
   - To start the server locally, run the following: 
-    - `npm run watch`
-  - Navigate to <b>localhost:3001</b> in your browser to open the app locally.
+    - `npm start`
+  - Navigate to <b>localhost:3001</b> in your browser to open the application locally.
 
   ## Technology Used
   ![JavaScript] 
@@ -49,13 +49,13 @@ Budget Tracker is a Progressive Web Application (PWA) where users can visually t
   ![Chart.js]
   
   ## Questions
-  Please visit my **[GitHub profile]()** 
+  Please visit my **[GitHub profile](https://github.com/CFsylvester)** 
 
   ## Links
-  - **[Deployed App]()**
-  - **[GitHub Repo]()** ![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)
+  - **[Deployed App](https://sylvester-budget-tracker.herokuapp.com/)**
+  - **[GitHub Repo](https://github.com/CFsylvester/budget-tracker)** ![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)
   - **[My Portfolio](clairecodes.dev)**
-  - **[Connect on LinkedIn]()**
+  - **[Connect on LinkedIn](https://www.linkedin.com/in/claire-sylvester-386373143/)**
 
   ## License  
   <a href='./LICENSE'>![License]</a>  
